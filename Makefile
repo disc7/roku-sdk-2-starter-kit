@@ -1,5 +1,5 @@
 # Update app-name
-APPNAME = app
+APPNAME = VideoPlayoutAndUiTest
 IMPORTS =
-APPSROOT = ..
+APPSROOT = .
 include $(APPSROOT)/app.mk

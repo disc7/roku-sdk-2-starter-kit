@@ -1,0 +1,37 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<component name = "RailGroupScene" extends = "Scene" initialFocus = "railGroup" >
+
+<script type="text/brightscript" uri="pkg:/components/RailGroupScene.brs" />
+
+  <children >
+
+    <Video
+        id="Video"
+        visible="false"
+        translation="[0, 0]"
+        width="1280"
+        height="720"
+        enableUI="false"
+        />
+
+    <RowList
+      id = "railGroup"
+      translation = "[64, 400]"
+      itemComponentName = "RailItem"
+      numRows = "5"
+      itemSize = "[1512, 290]"
+      rowItemSize = "[ [401, 237] ]"
+      itemSpacing = "[0, 40]"
+      showRowLabel = "[true]"
+      drawFocusFeedback = "false"
+      vertFocusAnimationStyle = "fixedFocus"
+      rowFocusAnimationStyle = "fixedFocusWrap" />
+
+  </children>
+
+</component>
+
+<!--
+      drawFocusFeedback = "true"
+      focusBitmapUri = "pkg:/images/drawFocusFeedbackBorder.png" -->

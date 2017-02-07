@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<component name = "RailItem" extends = "Group" >
+
+  <interface >
+    <field id = "itemContent" type = "node" onChange = "showcontent"/>
+    <field id = "focusPercent" type = "float" onChange = "showfocus"/>
+    <field id = "rowFocusPercent" type = "float" onChange = "showrowfocus"/>
+  </interface>
+
+  <script type="text/brightscript" uri="pkg:/components/RailItem.brs" />
+
+  <children >
+
+    <Poster
+      id = "itemPoster"
+      translation = "[ 10, 10 ]"
+      width = "381"
+      height = "217" >
+
+      <Rectangle
+        id = "itemMask"
+        translation = "[0, 113]"
+        color = "0x000000FF"
+        opacity = "0.5"
+        width = "381"
+        height = "104"/>
+
+      <Poster
+        id = "itemFocusFeedbackBorder"
+        uri="pkg:/images/drawFocusFeedbackBorder.png"
+        translation = "[0, 0]"
+        opacity = "0.0"/>
+
+    </Poster>
+
+      <Label
+        id = "itemLabel"
+        translation = "[ 20, 130 ]"
+        horizAlign = "left"
+        width = "361"/>
+
+  </children>
+
+</component>

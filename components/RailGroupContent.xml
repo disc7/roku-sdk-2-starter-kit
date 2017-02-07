@@ -1,0 +1,132 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<component name = "RailGroupContent" extends = "ContentNode" >
+
+  <children >
+
+    <ContentNode title = "LIVE NOW" >
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail1a.jpg"
+        title = "Title 1A" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail1b.jpg"
+        title = "Title 1B" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail1c.jpg"
+        title = "Title 1C" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail1d.jpg"
+        title = "Title 1D" />
+    </ContentNode>
+
+    <ContentNode title = "DAZN PICKS" >
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail2a.jpg"
+        title = "Title 2A" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail2b.jpg"
+        title = "Title 2B"/>
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail2c.jpg"
+        title = "Title 2C"/>
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail2d.jpg"
+        title = "Title 2D" />
+    </ContentNode>
+
+    <ContentNode title = "EVERYONE'S WATCHING" >
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail3a.jpg"
+        title = "Title 3A" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail3b.jpg"
+        title = "Title 3B" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail3c.jpg"
+        title = "Title 3C" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail3d.jpg"
+        title = "Title 3D" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/rail3e.jpg"
+        title = "Title 3E" />
+    </ContentNode>
+
+    <ContentNode title = "COMING UP" >
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/01+Sun 02 Oct+TOTTENHAM vs MAN CITY+Premier League+Catchup.jpg"
+        title = "Title 4A" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/02+Sun 02 Oct+CELTA VIGO vs BARCELONA+LaLiga Santander+Catchup.jpg"
+        title = "Title 4B" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/03+Mon 03 Oct+STUTTGART vs FÜRTH+Bundesliga+Highlights.jpg"
+        title = "Title 4C" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/04+Mon 03 Oct+REAL MADRID vs THUNDER+NBA+Catchup.jpg"
+        title = "Title 4D" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/05+Sun 02 Oct+MAN UTD vs STOKE+Premier League+Catchup.jpg"
+        title = "Title 4E" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/06+Sun 02 Oct+BURNLEY vs ARSENAL+Premier League+Catchup.jpg"
+        title = "Title 4F" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/07+Sun 02 Oct+SCHALKE vs GLADBACH+Bundesliga+Highlights.jpg"
+        title = "Title 4G" />
+    </ContentNode>
+
+    <ContentNode title = "SPORTS" >
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/01+Football.jpg"
+        title = "Football" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/02+American Football.jpg"
+        title = "American Football" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/03+Basketball.jpg"
+        title = "Basketball" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/04+Tennis.jpg"
+        title = "Tennis" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/05+Handball.jpg"
+        title = "Handball" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/06+Darts.jpg"
+        title = "Darts" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/07+Ice Hockey.jpg"
+        title = "Ice Hockey" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/08+Rugby Union.jpg"
+        title = "Rugby Union" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/09+Boxing.jpg"
+        title = "Boxing" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/10+Motorsports.jpg"
+        title = "Motorsports" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/11+MMA.jpg"
+        title = "MMA" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/12+Kickboxing.jpg"
+        title = "Kickboxing" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/13+Rugby League.jpg"
+        title = "Rugby League" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/14+Horse Racing.jpg"
+        title = "Horse Racing" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/15+Fishing.jpg"
+        title = "Fishing" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/sports/16+Judo.jpg"
+        title = "Judo" />
+    </ContentNode>
+
+  </children>
+
+</component>
