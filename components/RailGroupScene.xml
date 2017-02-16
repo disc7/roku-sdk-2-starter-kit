@@ -12,7 +12,7 @@
         translation="[0, 0]"
         width="1280"
         height="720"
-        enableUI="false"
+        enableUI="true"
         />
 
     <RowList
@@ -27,6 +27,20 @@
       drawFocusFeedback = "false"
       vertFocusAnimationStyle = "fixedFocus"
       rowFocusAnimationStyle = "fixedFocusWrap" />
+
+      <Label
+        id="streamInfoLabel"
+        width = "800"
+        translation = "[50,50]"
+        horizAlign = "center"
+        vertAlign = "center"
+      />
+
+      <Timer
+        id="streamInfoTimer"
+        repeat="true"
+        duration="5"
+      />
 
   </children>
 

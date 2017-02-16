@@ -4,76 +4,76 @@
 
   <children >
 
-    <ContentNode title = "LIVE NOW" >
+    <ContentNode title = "WHAT'S ON" >
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail1a.jpg"
-        title = "Title 1A" />
+        HDPosterUrl = "pkg:/images/thumbs/whats_on/11+Mon 03 Oct+REAL MADRID vs THUNDER+NBA+Catchup.jpg"
+        title = "Real Madrid Vs Thunder" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail1b.jpg"
-        title = "Title 1B" />
+        HDPosterUrl = "pkg:/images/thumbs/whats_on/12+Last Friday+CHINA OPEN - QUARTER FINALS+China Open's (Men)+Catchup.jpg"
+        title = "China Open - Quarter Finals" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail1c.jpg"
-        title = "Title 1C" />
+        HDPosterUrl = "pkg:/images/thumbs/whats_on/13+Last Saturday+POLAND vs DENMARK+UEFA WC Qualifiers+Catchup.jpg"
+        title = "Poland Vs Denmark" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail1d.jpg"
-        title = "Title 1D" />
+        HDPosterUrl = "pkg:/images/thumbs/whats_on/14+Last Sunday+AGNIESZKA RADWANSKA vs JOHANNA KONTA+China Open (Women's)+Highlights.jpg"
+        title = "Agnieszka Radwanska Vs Johanna Konta" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/whats_on/15+Last Sunday+SERBIA vs AUSTRIA+UEFA WC Qualifiers+Catchup.jpg"
+        title = "Serbia Vs Austria" />
+      <ContentNode
+        HDPosterUrl = "pkg:/images/thumbs/whats_on/16+Last Sunday+ICELAND vs TURKEY+UEFA WC Qualifiers+Catchup.jpg"
+        title = "Iceland Vs Turkey" />
     </ContentNode>
 
     <ContentNode title = "DAZN PICKS" >
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail2a.jpg"
-        title = "Title 2A" />
+        HDPosterUrl = "pkg:/images/thumbs/dazn_picks/01+Sat 17 Sep+LEGANÉS vs BARCELONA+LaLiga Santander+Catchup.jpg"
+        title = "Laganes vs Barcelona" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail2b.jpg"
-        title = "Title 2B"/>
+        HDPosterUrl = "pkg:/images/thumbs/dazn_picks/02+Sat 17 Sep+DORTMUND vs DARMSTADT+Bundesliga+Highlights.jpg"
+        title = "Dortmund Vs Darmstadt"/>
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail2c.jpg"
-        title = "Title 2C"/>
+        HDPosterUrl = "pkg:/images/thumbs/dazn_picks/03+Sat 17 Sep+BAYERN vs INGOLSTADT+Bundesliga+Highlights.jpg"
+        title = "Bayern Vs Ingolstadt"/>
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail2d.jpg"
-        title = "Title 2D" />
+        HDPosterUrl = "pkg:/images/thumbs/dazn_picks/04+Sun 18 Sep+ESPANYOL vs REAL MADRID+LaLiga Santander+Catchup.jpg"
+        title = "Espanyol Vs Real Madrid" />
     </ContentNode>
 
     <ContentNode title = "EVERYONE'S WATCHING" >
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail3a.jpg"
-        title = "Title 3A" />
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/01+Sun 02 Oct+TOTTENHAM vs MAN CITY+Premier League+Catchup.jpg"
+        title = "Tottenham Vs Man City" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail3b.jpg"
-        title = "Title 3B" />
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/02+Sun 02 Oct+CELTA VIGO vs BARCELONA+LaLiga Santander+Catchup.jpg"
+        title = "Celta Vigo Vs Barcelona" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail3c.jpg"
-        title = "Title 3C" />
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/03+Mon 03 Oct+STUTTGART vs FÜRTH+Bundesliga+Highlights.jpg"
+        title = "Stuttgart Vs Furth" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail3d.jpg"
-        title = "Title 3D" />
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/04+Mon 03 Oct+REAL MADRID vs THUNDER+NBA+Catchup.jpg"
+        title = "Real Madrid Vs Thunder" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/rail3e.jpg"
-        title = "Title 3E" />
+        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/05+Sun 02 Oct+MAN UTD vs STOKE+Premier League+Catchup.jpg"
+        title = "Man Utd Vs Stoke" />
     </ContentNode>
 
     <ContentNode title = "COMING UP" >
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/01+Sun 02 Oct+TOTTENHAM vs MAN CITY+Premier League+Catchup.jpg"
-        title = "Title 4A" />
+        HDPosterUrl = "pkg:/images/thumbs/coming_up/20+Tonight, 19.45+SLOVENIA vs ENGLAND+UEFA WC Qualifiers+Coming Up Live.jpg"
+        title = "Slovenia Vs England" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/02+Sun 02 Oct+CELTA VIGO vs BARCELONA+LaLiga Santander+Catchup.jpg"
-        title = "Title 4B" />
+        HDPosterUrl = "pkg:/images/thumbs/coming_up/21+Tonight, 21.30+COLOMBIA vs URUGUAY+CONMEBOL WC Qualifiers+Coming Up Live.jpg"
+        title = "Colombia Vs Uruguay" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/03+Mon 03 Oct+STUTTGART vs FÜRTH+Bundesliga+Highlights.jpg"
-        title = "Title 4C" />
+        HDPosterUrl = "pkg:/images/thumbs/coming_up/22+Tonight, 00.30+ARGENTINA vs PARAGUAY+CONMEBOL WC Qualifiers+Coming Up Live.jpg"
+        title = "Argentina Vs Paraguay" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/04+Mon 03 Oct+REAL MADRID vs THUNDER+NBA+Catchup.jpg"
-        title = "Title 4D" />
+        HDPosterUrl = "pkg:/images/thumbs/coming_up/24+Friday, 19.45+NICE vs LYON+Ligue 1+Coming Up Live.jpg"
+        title = "Nice Vs Lyon" />
       <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/05+Sun 02 Oct+MAN UTD vs STOKE+Premier League+Catchup.jpg"
-        title = "Title 4E" />
-      <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/06+Sun 02 Oct+BURNLEY vs ARSENAL+Premier League+Catchup.jpg"
-        title = "Title 4F" />
-      <ContentNode
-        HDPosterUrl = "pkg:/images/thumbs/everyones_watching/07+Sun 02 Oct+SCHALKE vs GLADBACH+Bundesliga+Highlights.jpg"
-        title = "Title 4G" />
+        HDPosterUrl = "pkg:/images/thumbs/coming_up/25+Saturday, 12.30+CHELSEA vs LEICESTER+Premier League+Coming Up Live.jpg"
+        title = "Chelsea Vs Leicester" />
     </ContentNode>
 
     <ContentNode title = "SPORTS" >
